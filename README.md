@@ -4,8 +4,9 @@ Static website for AA-DEVELOPERS (plain HTML, CSS and JavaScript, no build step,
 
 ## Pages
 - `/` Home, My Apps, About Us, Contact
-- `/apps/wallrush-x/` and `/apps/arrow-rush/` app detail pages
-- `/wallrush/delete-account/` and `/arrow-rush/delete-account/` account deletion request pages
+- `/apps/wallrush-x/`, `/apps/arrow-rush/` and `/apps/car-escape/` app detail pages
+- `/wallrush/delete-account/`, `/arrow-rush/delete-account/` and `/car-escape/delete-account/` account deletion request pages
+- `/wallrush-x-privacy-policy.html`, `/arrow-rush-privacy-policy.html` and `/car-escape-privacy-policy.html` app privacy policies
 - `/app-ads.txt` plain-text AdMob authorization file
 
 ## Run locally
